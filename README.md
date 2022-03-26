@@ -242,3 +242,6 @@ Even assuming just 100mAHr capacity, that gives us 100/0.64 = 156 days! Hard to 
 # Credits
 * [Updating Google Sheet via HTTPS](https://stackoverflow.com/questions/69685813/problem-esp32-send-data-to-google-sheet-through-google-app-script)
 * [ESP32 Async Web Server using SPIFFS]( https://randomnerdtutorials.com/esp32-web-server-spiffs-spi-flash-file-system/)
+
+# Additional References
+![Capacitive Soil Moisture Sensors don't work correctly + Fix for v2.0 v1.2 Arduino ESP32 Raspberry Pi](https://i3.ytimg.com/vi/IGP38bz-K48/hqdefault.jpg)(https://www.youtube.com/watch?v=IGP38bz-K48)
